@@ -2,3 +2,8 @@ p{
     background-color: antiquewhite;
     color: blueviolet;
 }
+a{
+    text-decoration: none;
+    background-color: rgb(60, 165, 80);
+    color: aliceblue;
+}
